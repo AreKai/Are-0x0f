@@ -23,3 +23,4 @@ The 0x0f-th Are party.
 - [4番サード魚真](http://tabelog.com/tokyo/A1303/A130301/13001785/)
 - [米とサーカス](http://tabelog.com/tokyo/A1305/A130503/13124219/)
 - [山](http://ja.wikipedia.org/wiki/%E5%B1%B1)
+- [神保町食肉センター](http://tabelog.com/tokyo/A1310/A131003/13111568/)
