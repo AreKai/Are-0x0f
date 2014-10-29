@@ -12,6 +12,7 @@ The 0x0f-th Are party.
 
 ### 参加
  - @naotaco
+ - @nunnun
 
 ### 日程調整
 
