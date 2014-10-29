@@ -14,6 +14,7 @@ The 0x0f-th Are party.
  - @naotaco
  - @nunnun
  - @ymrl
+ - @takumibaba
 
 ### 日程調整
 
