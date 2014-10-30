@@ -15,6 +15,7 @@ The 0x0f-th Are party.
  - @nunnun
  - @ymrl
  - @takumibaba
+ - @akix
 
 ### 日程調整
 
@@ -24,6 +25,7 @@ The 0x0f-th Are party.
 | nunnun       |  x  |  o  |  o  |  x  |  o  |  o  |
 | ymrl         |  ○  |  ○  |  ○  |  ○  |  ○  |  ○  |
 | takumibaba   |  x  |  ○  |  ○  |  x  |  ○  |  ○  |
+| akix         |  ○  |  ○  |  ○  |  ○  |  x  |  x  |
 
 ### 場所候補
 
