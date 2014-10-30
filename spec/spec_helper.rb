@@ -58,7 +58,7 @@ class AreScheduler
       row.children[1..-1].select{|cell| cell.children.length == 0}.length == 0
     }.map{|row|
       name = row.children.first.children.first.value
-      _candidates = row.children[1..-1].map{|cell| /[Oo\u25CB\u25EF]/ === cell.children.first.value}
+      _candidates = row.children[1..-1].map{|cell| /[\u25CB\u25EF]/ === cell.children.first.value}
       _candidates = candidates.values_at *_candidates.each_with_index.map{|a,i| a ? i : nil}.compact
 
       {name => _candidates}
