@@ -16,6 +16,7 @@ The 0x0f-th Are party.
  - @ymrl
  - @takumibaba
  - @akix
+ - @ohnishiakira
 
 ### 日程調整
 
@@ -26,6 +27,7 @@ The 0x0f-th Are party.
 | ymrl         |  ○  |  ○  |  ○  |  ○  |  ○  |  ○  |
 | takumibaba   |  x  |  ○  |  ○  |  x  |  ○  |  ○  |
 | akix         |  ○  |  ○  |  ○  |  ○  |  x  |  x  |
+| ohnishiakira |  x  |  ○  |  ○  |  x  |  x  |  ○  |
 
 ### 場所候補
 
