@@ -17,6 +17,7 @@ The 0x0f-th Are party.
  - @takumibaba
  - @akix
  - @ohnishiakira
+ - @kurokobo
 
 ### 日程調整
 
@@ -28,6 +29,7 @@ The 0x0f-th Are party.
 | takumibaba   |  x  |  ○  |  ○  |  x  |  ○  |  ○  |
 | akix         |  ○  |  ○  |  ○  |  ○  |  x  |  x  |
 | ohnishiakira |  x  |  ○  |  ○  |  x  |  x  |  ○  |
+| kurokobo |  ○  |  ○  |  x  |  ○ |  ○  |  x  |
 
 ### 場所候補
 
