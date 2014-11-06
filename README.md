@@ -5,7 +5,7 @@ The 0x0f-th Are party.
 [![Build Status](https://travis-ci.org/AreKai/Are-0x0f.svg)](https://travis-ci.org/AreKai/Are-0x0f)
 
 - are
-- 日程：11/7
+- 日程：11/7 21:15~
 - 場所：4番サード魚真
 
 そろそろやりましょう
